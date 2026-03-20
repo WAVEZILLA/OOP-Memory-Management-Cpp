@@ -31,6 +31,6 @@ int main(void) {
 
     cout << "The sum of a and b is: " << c << endl;
 
-    getch(); 
+     getch(); 
     return 0;
 }
