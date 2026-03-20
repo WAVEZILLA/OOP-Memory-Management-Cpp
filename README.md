@@ -33,4 +33,4 @@ Stores global variables:
 ```cpp
 int g_num1 = 10;
 
-Thank you.
+Thank You.
