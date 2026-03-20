@@ -17,7 +17,7 @@ The program:
 - Uses a global variable
 - Allocates memory dynamically using `malloc()`
 - Frees memory using `free()`
-- Uses a function (`adder`) to demonstrate stack usage
+- Uses a function (`adder`) to demonstrate stack usage.
 
 
 ## Memory Segments Explanation
